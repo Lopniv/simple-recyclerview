@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Top PC Games</string>
+    <string name="logo">Logo</string>
+    <string name="action">Action</string>
+    <string name="logo_genre">Logo Genre</string>
+    <string name="about">About</string>
+    <string name="image_game">Image Game</string>
+    <string name="winning_eleven">Winning Eleven</string>
+    <string name="genre">Genre</string>
+    <string name="release">Release</string>
+    <string name="description">Description</string>
+    <string name="name">Name:</string>
+    <string name="genre_name">Genre:</string>
+    <string name="_2000">2000</string>
+    <string name="description_detail">Description:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="desc_detail">An epic continuation of the story that began in Baldur\'s Gate, this RPG is set along the southern portion of the Sword Coast, a detailed and rich area of the Forgotten Realms called Amn. It features 300 spells and 130-plus monster types compared to only 130 spells and 60 monster types in Baldur\'s Gate. [Interplay]</string>
+    <string name="abdullah_fahmi">Abdullah Fahmi</string>
+</resources>
